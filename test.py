@@ -1,3 +1,3 @@
-text = "Ahoj"
+text = "Ahoj 
 
 print(text)
