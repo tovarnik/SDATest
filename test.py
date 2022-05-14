@@ -1,0 +1,3 @@
+text = "Ahoj"
+
+print(text)
